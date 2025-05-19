@@ -143,7 +143,7 @@ Hugo’s [forum](https://discourse.gohugo.io/) is an active community of users a
 For other resources to help you learn Hugo, including books and video tutorials, see the [external learning resources](https://gohugo.io/getting-started/external-learning-resources/) page.
 
 # Hugo 建站快速入门概览
-<mcfile name="Quick start.md" path="c:/GkDesktop/OneDrive/GkObsidian/2-部门工作/2-业务中心/gaochang网站管理/guhugo.io/Quick start.md"></mcfile> 文档主要分为四个核心步骤：**创建站点、添加内容、配置站点、发布站点**。这与您项目初期需要完成的工作是高度一致的。
+文档主要分为四个核心步骤：**创建站点、添加内容、配置站点、发布站点**。这与您项目初期需要完成的工作是高度一致的。
 ## 1. 先决条件 (Prerequisites)
 *   **安装 Hugo**: 文档要求 Hugo v0.128.0 或更高版本。您的项目规划中也提到了指定 Hugo 版本（例如 `Hugo >= 0.110.0`），建议使用最新的稳定版。
 *   **安装 Git**: Git 用于版本控制，特别是当您使用主题（通常作为 Git 子模块添加）和未来通过 GitHub Pages 部署时，这是必需的。
