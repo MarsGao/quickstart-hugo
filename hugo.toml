@@ -1,5 +1,4 @@
 baseURL = 'https://marsgao.github.io/quickstart-hugo/'
-baseURL = 'http://t.test.marsgao.win/'
 languageCode = 'en-us'
 title = '高空第一个网页'
 theme = 'ananke'
