@@ -1,0 +1,4 @@
+baseURL = 'https://test.marsgao.win/'
+languageCode = 'en-us'
+title = 'Gk quickstart New Hugo Site'
+theme = 'ananke'
