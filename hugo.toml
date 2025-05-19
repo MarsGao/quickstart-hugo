@@ -1,4 +1,5 @@
-baseURL = 'https://test.marsgao.win/'
+baseURL = 'https://marsgao.github.io/quickstart-hugo/'
+baseURL = 'http://t.test.marsgao.win/'
 languageCode = 'en-us'
 title = 'Gk quickstart New Hugo Site'
 theme = 'ananke'
